@@ -52,7 +52,7 @@ The project is divided into three main parts:
 ---
 
 ## 📂 Repository Structure
-
+```plaintext
 ├── code/              # MATLAB scripts and functions
 ├── audio/             # Input audio (recorded voice) and processed outputs
 ├── report/            # Project report and explanations
