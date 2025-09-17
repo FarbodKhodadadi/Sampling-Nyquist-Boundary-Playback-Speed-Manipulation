@@ -43,10 +43,6 @@ The project is divided into three main parts:
 
 ---
 
-## 📂 Repository Structure
-
----
-
 ## 📈 Key Learnings
 - Practical application of the **Nyquist Sampling Theorem**
 - Understanding the impact of down-sampling on audio quality
@@ -54,4 +50,15 @@ The project is divided into three main parts:
 - Importance of windowing and overlap in maintaining signal continuity
 
 ---
+
+## 📂 Repository Structure
+```plaintext
+├── code/              # MATLAB scripts and functions
+├── audio/             # Input audio (recorded voice) and processed outputs
+├── report/            # Project report and explanations
+└── README.md          # Project documentation
+
+---
+
+
 
