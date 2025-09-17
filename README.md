@@ -1,4 +1,4 @@
-# Sampling-Nyquist-Boundary-Playback-Speed-Manipulation  
+
 # Signal Processing: Sampling, Nyquist Boundary, and Playback Speed Manipulation
 
 This repository contains my implementation of **Computer Assignment 2** from the *Signals and Systems* course (Spring 2025).  
